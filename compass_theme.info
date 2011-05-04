@@ -1,0 +1,13 @@
+name = Compass starter theme
+description = Compass starter theme.
+
+core = 7.x
+engine = phptemplate
+
+regions[sidebar_first] = Left sidebar
+regions[sidebar_second] = Right sidebar
+regions[content] = Content
+regions[header] = Header
+regions[footer] = Footer
+regions[highlighted] = Highlighted
+regions[help] = Help
