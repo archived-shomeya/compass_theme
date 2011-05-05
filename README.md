@@ -1,7 +1,7 @@
 Purpose
 =======
 
-This theme is designed to be a basic starter theme for use with compass and provides only the most basic styling to enable multi-column layout. It is recommended to copy and rename this them as creating sub-theme would not provide many benefits as this theme provides no functionality for a sub-theme to rely on.
+This theme is designed to be a basic starter theme for use with compass and provides only the most basic styling to enable multi-column layout. It is recommended to copy and rename this theme as creating sub-theme would not provide many benefits as this theme provides no functionality for a sub-theme to rely on.
 
 Requirements
 ============
